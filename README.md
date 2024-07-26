@@ -1,1 +1,1 @@
-> SQL Zoo Project from Odin Project.
+SQL Zoo Project from Odin Project.
